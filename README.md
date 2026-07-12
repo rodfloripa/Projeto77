@@ -145,7 +145,7 @@ Os poços previamente perfurados são utilizados como pontos de referência para
 
 **Figura 1 — Mapa de previsão do campo petrolífero**
 
-<img src="fig1.jpg" width="700">
+<img src="fig1.png" width="700">
 
 </div>
 
@@ -165,7 +165,7 @@ Esse mapa é extremamente importante, pois indica onde novas amostras podem forn
 
 **Figura 2 — Mapa de incerteza do Processo Gaussiano**
 
-<img src="fig2.jpg" width="700">
+<img src="fig2.png" width="700">
 
 </div>
 
